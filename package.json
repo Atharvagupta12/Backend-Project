@@ -1,0 +1,17 @@
+{
+  "name": "backend-mega-project",
+  "version": "1.0.0",
+  "description": "a backend project to learn how it works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs",
+    "chai"
+  ],
+  "author": "Atharva Gupta",
+  "license": "ISC"
+}
